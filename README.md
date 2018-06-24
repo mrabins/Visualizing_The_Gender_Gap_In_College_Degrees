@@ -1,3 +1,3 @@
-# Visualizing_The_Gender_Gap_In_College_Degrees
+# Visualizing The Gender Gap In College Degrees
 
 This project visualizes the gender gap in college degrees from 1970 - 2011.
